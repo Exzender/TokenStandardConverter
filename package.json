@@ -1,0 +1,19 @@
+{
+  "name": "token-converter-solidity",
+  "version": "1.0.1",
+  "description": "Ethereum Token Converter ERC20 - ERC223",
+  "devDependencies": {
+    "dex223-library": "^1.0.0"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "security",
+    "erc223",
+    "dex223"
+  ],
+  "author": "Dex223 <info@dex223.io>",
+  "license": "GPL3"
+}
